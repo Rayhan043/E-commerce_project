@@ -2,7 +2,7 @@ A fully functional, beginner-friendly e-commerce website built with HTML, CSS, J
 
  Features
 
- User Features
+ User Featueres
 -  User registration and login with password hashing
 -  User profile management (view and edit)
 -  Browse products with categories
@@ -33,8 +33,7 @@ A fully functional, beginner-friendly e-commerce website built with HTML, CSS, J
 -  User role-based access control
 
 
---> Project Structure
-
+-  --> Project Structure
 E-comm/
 ├── config/
 │   └── db.php                 # Database configuratio
@@ -78,3 +77,4 @@ E-comm/
 ├── sql/
 │   └── ecommerce_db.sql       # Database schema
 └── index.php                  # Home page
+
